@@ -46,6 +46,8 @@ A minimal REST API for managing todos, built with **Express** and **MongoDB**. U
 | `MONGO_URI`| Yes      | MongoDB connection string (e.g. `mongodb://localhost:27017/todoapp`) |
 | `PORT`     | No       | Server port (default: 3000) — set when you dockerize |
 
+**Built by [Tawanda Mashoko](https://github.com/TawandaMashoko)**
+
 ## License
 
 MIT.
